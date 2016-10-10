@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+}
+
+title, h1 {
+    color: black;
+    text-align: center;
+}
+
+.body-text {
+    max-width: 70%;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    
+}
+
+  
+img {
+    display: block;
+    margin: auto
+    }
+
+p {
+    color: black;
+    font-family: verdana;
+    font-size: 10pt;
+    text-align: center;
+}
