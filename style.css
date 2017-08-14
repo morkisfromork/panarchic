@@ -12,7 +12,9 @@ title, h1 {
     margin: auto;
     padding: 10px;
     display: block;
-    font-size: 20pt;
+    color: black;
+    font-family: verdana;
+    font-size: 30pt;
     text-align: center
     
 }
