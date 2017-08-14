@@ -7,6 +7,16 @@ title, h1 {
     text-align: center;
 }
 
+.heading-text {
+    max-width: 70%;
+    margin: auto;
+    padding: 10px;
+    display: block;
+    font-size: 20pt;
+    text-align: center
+    
+}
+
 .body-text {
     max-width: 70%;
     margin: auto;
@@ -14,7 +24,6 @@ title, h1 {
     display: block;
     
 }
-
   
 img {
     display: block;
